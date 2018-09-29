@@ -18,7 +18,7 @@ This dataset is accompanied by an additional dataset containing the original 410
 
 ### Sample Images
 
-
+![sample_images](https://github.com/youssef-ahmed/Blood_Cells_Recognizer/blob/master/snapshots/sample.png)
 
 Types of blood cells are :
 1. Mononuclear
