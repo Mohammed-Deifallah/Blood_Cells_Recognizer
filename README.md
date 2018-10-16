@@ -8,7 +8,7 @@ The diagnosis of blood-based diseases often involves identifying and characteriz
 So, providing automated methods to detect and classify blood cell subtypes would be a huge benefit and would have important medical applications.
 
 ## Data
-**Note**: You can find data in the Kaggle competttion linked below
+**Note**: You can find data in the Kaggle competttion linked below [2].
 
 This dataset contains 12,500 augmented images of blood cells (JPEG) with accompanying cell type labels (CSV). 
 
@@ -35,4 +35,6 @@ For more information about blood cells and blood cell subtypes, see the followin
 
 ## References:
 
-Link to Kaggle:  https://www.kaggle.com/paultimothymooney/blood-cells/home
+[1] Link to Kaggle Competition: https://www.kaggle.com/paultimothymooney/blood-cells/home  
+[2] You can find the dataset here: https://www.kaggle.com/paultimothymooney/blood-cells
+
